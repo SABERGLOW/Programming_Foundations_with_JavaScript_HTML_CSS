@@ -1,0 +1,38 @@
+body 
+{
+    background-image: url("https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif");
+    background-color: #cccccc;
+}
+
+.head_div
+{
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: DarkBlue;
+    border-width: 1px;
+    padding-left: 5px;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+}
+
+h1 
+{
+    color: green;
+    text-align: center;
+}
+
+em 
+{
+    color: green;
+    text-align: left;
+}
+
+.clr 
+{
+    color: green;
+}
+
+#alena
+{
+    float: right;
+}
