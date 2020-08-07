@@ -1,4 +1,4 @@
-# Programming Foundations with JavaScript, HTML, and CSS
+# Programming Foundations with JavaScript, HTML, & CSS
 Solutuions to assignments for the course that is offered at <a href="https://www.coursera.org">Coursera</a>, by Duke Universitry.
 
 ### Link to the course
