@@ -6,7 +6,8 @@ https://www.coursera.org/learn/duke-programming-web/
 
 
 ### To Be Noted
-For Week 2 assignments only, the code should be run at <a href="https://www.dukelearntoprogram.com//course1/example/index.php">Duke University Code Environment</a> as all the libraries and images are hosted there.
+ * For Week 2 assignments only, the code should be run at <a href="https://www.dukelearntoprogram.com//course1/example/index.php">Duke University Code Environment</a> as all the libraries and images are hosted there.
+ * For Week 3 assignments/practises only, copy/paste the code at <a href="https://codepen.io/">CODEPEN</a> as it's much easier to see the live output of your code there.
 
 
 ### Learning Outcomes
