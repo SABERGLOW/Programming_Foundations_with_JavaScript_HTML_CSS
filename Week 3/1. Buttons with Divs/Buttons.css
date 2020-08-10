@@ -1,0 +1,24 @@
+h1 {
+	font-family: arial;
+	color: dimgrey;
+}
+div {
+	text-align: center;
+}
+#d1 {
+	width: 200px;
+	font-size: 28px;
+	background-color: royalblue;
+}
+#d2 {
+	width: 200px;
+	font-size: 28px;
+	background-color: lightgreen;
+}
+#button {
+	width: 100px;
+	background-color: #44c767;
+	font-family: Arial;
+	font-size: 20px;
+	padding: 16px 31px;
+}

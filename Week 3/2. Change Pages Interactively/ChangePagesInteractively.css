@@ -1,0 +1,16 @@
+
+h1 {
+	font-family: arial;
+	color: dimgrey;
+}
+div {
+width: 100px;
+	text-align: center;
+}
+
+.yellowback{
+	background-color: yellow;
+}
+.blueback{
+	background-color: lightblue;
+}

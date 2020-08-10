@@ -1,0 +1,19 @@
+<h1>Inputs & Events</h1>
+<canvas id="d1" class="blueback"> </canvas>
+<div>
+	<input
+		type="button"
+		value="Change Back To Blue"
+		onclick="changeBackToBlue()"
+	/>
+	<!-- input type="color" value="#FF0000" id="clr" onclick="doColor()" -->
+	<input type="color" value="#FF0000" id="clr" onchange="doColor()" />
+	<input
+		type="range"
+		min="10"
+		max="100"
+		value="10"
+		id="sldr"
+		oninput="doSqr()"
+	/>
+</div>

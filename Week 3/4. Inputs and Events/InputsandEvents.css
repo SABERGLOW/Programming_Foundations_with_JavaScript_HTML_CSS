@@ -1,0 +1,14 @@
+h1 {
+	font-family: arial;
+	color: dimgrey;
+}
+canvas {
+	width: 200px;
+	height: auto;
+	margin: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+.blueback {
+	background-color: blue;
+}

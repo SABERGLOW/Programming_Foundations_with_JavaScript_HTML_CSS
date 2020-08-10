@@ -1,0 +1,25 @@
+h1 {
+	margin: 10px;
+	border: 2px solid black;
+	text-align: center;
+	font-family: courier;
+	color: slategray;
+}
+body {
+	font-family: arial;
+	color: darkslategray;
+	background-color: coral;
+}
+canvas {
+	width: 200px;
+	height: auto;
+	margin: 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+input {
+	font-size: 14pt;
+}
+.background {
+	background-color: lightgrey;
+}
