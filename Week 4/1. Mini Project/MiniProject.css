@@ -1,0 +1,104 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@100;300;400;700&display=swap");
+
+body {
+	text-align: center;
+	font-family: "Jost", sans-serif;
+	height: 100vh;
+	background-color: #1b2845;
+	background-image: linear-gradient(315deg, #1b2845 0%, #274060 74%);
+	scroll-behavior: smooth;
+}
+section {
+	box-sizing: border-box;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	height: 20vh;
+	font-size: 80px;
+	font-weight: bold;
+	transition: all 200ms;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 50% 50%;
+	display: grid;
+	place-items: center;
+	z-index: 1;
+	cursor: pointer;
+	position: relative;
+	scroll-behavior: smooth;
+}
+.waves-demo {
+	background: #9ac;
+}
+/*Waves*/
+.waves {
+	color: transparent;
+	-webkit-text-stroke: 1px #fff;
+	position: relative;
+}
+.waves:after {
+	content: attr(data-word);
+	position: absolute;
+	top: 0;
+	left: 0;
+	color: #fff;
+	animation: waves 2s ease-in-out infinite forwards;
+}
+@keyframes waves {
+	0%,
+	100% {
+		clip-path: polygon(
+			0 66%,
+			11% 59%,
+			18% 51%,
+			26% 46%,
+			35% 41%,
+			48% 44%,
+			55% 54%,
+			63% 63%,
+			76% 60%,
+			82% 50%,
+			92% 48%,
+			100% 53%,
+			100% 100%,
+			0% 100%
+		);
+	}
+	50% {
+		clip-path: polygon(
+			0 66%,
+			8% 74%,
+			17% 77%,
+			28% 70%,
+			35% 57%,
+			48% 44%,
+			56% 39%,
+			69% 41%,
+			75% 47%,
+			84% 60%,
+			92% 61%,
+			100% 53%,
+			100% 100%,
+			0% 100%
+		);
+	}
+}
+
+h1 {
+	font-size: 48px;
+	color: black;
+}
+input {
+	font-size: 11pt;
+}
+.background {
+	background-color: lightgrey;
+}
+canvas {
+	width: 200px;
+	height: auto;
+	margin: 10px;
+	border: 1px solid black;
+	text-align: center;
+}

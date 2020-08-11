@@ -1,0 +1,36 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="MiniProject.css" media="screen">
+<script src="http://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
+</head>
+
+
+<section class="waves-demo">
+	<div class="waves" data-word="Clrd.🎨">
+		Clrd.🎨
+	</div>
+</section>
+<canvas id="can1" class="background"> </canvas>
+<div>
+	Upload Image:
+	<input
+		type="file"
+		multiple="false"
+		accept="image/*"
+		id="finput"
+		onchange="upload()"
+	/>
+</div>
+<div>
+	Apply Filter:
+	<input type="button" value="GreyScale Filter" onclick="makeGrey()" />
+	<input type="button" value="RGB Filter" onclick="makeRGB()" />
+	<input type="button" value="Rainbow Filter" onclick="makeRainbow()" />
+	<input type="button" value="Red Filter" onclick="makeRed()" />
+	<input type="button" value="Blur Filter" onclick="makeBlur()" />
+	<input type="button" value="Reset Image" onclick="resetImage()" />
+</div>
+
+
+<script src="MiniProject.js"></script>
+</html>
