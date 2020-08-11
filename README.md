@@ -11,4 +11,7 @@ https://www.coursera.org/learn/duke-programming-web/
 
 
 ### Learning Outcomes
-  * _Coming soon..._
+  * Write JavaScript programs using functions, for loops, and conditional statements.
+  * Use HTML to construct a web page with paragraphs, divs, images, links, and lists.
+  * Add styles to a web page with CSS IDs and classes.
+  * Make a web page interactive with JavaScript commands like alert, onClick, onChange, adding input features like an image canvas, button, and slider.
