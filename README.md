@@ -10,6 +10,10 @@ https://www.coursera.org/learn/duke-programming-web/
  * For Week 3 assignments/practises only, copy/paste the code at <a href="https://codepen.io/">CODEPEN</a> as it's much easier to see the live output of your code there.
 
 
+### Update
+I finished the course on Aug 11 2020 with 100% grade and Honors. View my <a href="https://www.coursera.org/account/accomplishments/certificate/UULDLNA62M73">certificate</a>.
+
+
 ### Learning Outcomes
   * Write JavaScript programs using functions, for loops, and conditional statements.
   * Use HTML to construct a web page with paragraphs, divs, images, links, and lists.
